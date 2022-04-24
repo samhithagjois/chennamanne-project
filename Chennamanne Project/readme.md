@@ -14,8 +14,8 @@ GUI, player controls, Board etc.
 
 ##### Board : 
                | - - - - - -|
-                                        FIELD FOR THE PLAYERS TO PUT THEIR TOKENS IN 
-               |             |
+               |            |            FIELD FOR THE PLAYERS TO PUT THEIR TOKENS IN 
+               |            |
 
 --------------------------------------------*\*
  
@@ -28,7 +28,7 @@ O ......O.....O....O.....O.....O.....O       ||         Your side
 --------------------------------------------/
 
             |            |
-            FIELD FOR THE PLAYERS TO PUT THEIR TOKENS IN
+            |            |                    FIELD FOR THE PLAYERS TO PUT THEIR TOKENS IN
             | - - - - -  |
 
 
@@ -36,7 +36,7 @@ O ......O.....O....O.....O.....O.....O       ||         Your side
 
 #### Tests
 
-Like any other good software project, this needs tests. So I'll write them. 
+Like any other good software project, my prof taught me, this needs tests. So I'll write them. 
 
 
 #### Static Code Analysis
